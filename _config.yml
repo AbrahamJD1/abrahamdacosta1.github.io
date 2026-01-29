@@ -16,7 +16,6 @@ description              : &description "Computer Science Student at University 
 url: "https://abrahamjd1.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "/abrahamdacosta1.github.io"
-google_analytics: G-ZB2QMBX0F5
 
 repository: "AbrahamJD1/abrahamdacosta1.github.io"
 
@@ -157,9 +156,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          :  "G-ZB2QMBX0F5"
 
 
 # Reading Files
